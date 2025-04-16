@@ -1,4 +1,5 @@
 # 4.Execution_of_NetworkCommands
+HIBA NASREEN M
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -27,6 +28,11 @@ This commands includes
 <BR>
 
 ## Output
+![Screenshot 2025-04-16 112037](https://github.com/user-attachments/assets/36ce194d-20dc-4b3d-a853-2747b2e98014)
+![Screenshot 2025-04-16 112200](https://github.com/user-attachments/assets/3092377c-9514-4f89-82a8-8fd72090dcb2)
+![Screenshot 2025-04-16 112445](https://github.com/user-attachments/assets/51fc6a62-4922-4ba5-bea0-32b225b2c958)
+
+
 
 ## Result
 Thus Execution of Network commands Performed 
