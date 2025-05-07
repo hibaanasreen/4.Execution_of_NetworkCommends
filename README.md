@@ -28,8 +28,14 @@ This commands includes
 <BR>
 
 ## Output
+4a Program
+
 ![Screenshot 2025-04-16 112037](https://github.com/user-attachments/assets/36ce194d-20dc-4b3d-a853-2747b2e98014)
+4a Output
+
 ![Screenshot 2025-04-16 112200](https://github.com/user-attachments/assets/3092377c-9514-4f89-82a8-8fd72090dcb2)
+4b Output
+
 ![Screenshot 2025-04-16 112445](https://github.com/user-attachments/assets/51fc6a62-4922-4ba5-bea0-32b225b2c958)
 
 
